@@ -153,10 +153,6 @@ L<https://github.com/doy/moosex-nonmoose>
 
 L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=MooseX-NonMoose>
 
-=item * CPAN Ratings
-
-L<http://cpanratings.perl.org/d/MooseX-NonMoose>
-
 =back
 
 =begin Pod::Coverage
