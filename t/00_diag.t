@@ -11,8 +11,6 @@ my $post_diag;
 
 $modules{$_} = $_ for qw(
   ExtUtils::MakeMaker
-  IO::File
-  IO::Handle
   List::Util
   Module::Runtime
   Moose
