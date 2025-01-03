@@ -4,6 +4,7 @@ use Moose::Exporter;
 use Moose::Util;
 
 # ABSTRACT: easy subclassing of non-Moose classes
+# VERSION
 
 =head1 SYNOPSIS
 
