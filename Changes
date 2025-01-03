@@ -1,6 +1,8 @@
 Revision history for MooseX-NonMoose
 
 {{$NEXT}}
+
+0.27      2025-01-02 20:30:46 -0700
   - Drop dependency on List::MoreUtils
   - New maintainer and repository: https://github.com/uperl/MooseX-NonMoose
 
