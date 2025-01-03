@@ -1,11 +1,12 @@
 package MooseX::NonMoose::Meta::Role::Class;
-use Moose::Role;
-# ABSTRACT: metaclass trait for L<MooseX::NonMoose>
 
+use Moose::Role;
 use List::Util 1.33 qw(any);
 use Module::Runtime qw(use_package_optimistically);
 use Try::Tiny;
 use Scalar::Util 'blessed';
+
+# ABSTRACT: metaclass trait for L<MooseX::NonMoose>
 
 =head1 SYNOPSIS
 

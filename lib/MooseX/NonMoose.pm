@@ -1,6 +1,8 @@
 package MooseX::NonMoose;
+
 use Moose::Exporter;
 use Moose::Util;
+
 # ABSTRACT: easy subclassing of non-Moose classes
 
 =head1 SYNOPSIS
@@ -116,7 +118,7 @@ normal Moose classes.
 =back
 
 Please report any bugs to GitHub Issues at
-L<https://github.com/doy/moosex-nonmoose/issues>.
+L<https://github.com/uperl/moosex-nonmoose/issues>.
 
 =head1 SEE ALSO
 
@@ -147,7 +149,7 @@ L<https://metacpan.org/release/MooseX-NonMoose>
 
 =item * Github
 
-L<https://github.com/doy/moosex-nonmoose>
+L<https://github.com/uperl/moosex-nonmoose>
 
 =item * RT: CPAN's request tracker
 

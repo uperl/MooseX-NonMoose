@@ -1,5 +1,7 @@
 package MooseX::NonMoose::InsideOut;
+
 use Moose::Exporter;
+
 # ABSTRACT: easy subclassing of non-Moose non-hashref classes
 
 =head1 SYNOPSIS

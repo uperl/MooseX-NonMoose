@@ -94,7 +94,7 @@ although using method modifiers on the constructor should work identically to
 normal Moose classes.
 
 Please report any bugs to GitHub Issues at
-[https://github.com/doy/moosex-nonmoose/issues](https://github.com/doy/moosex-nonmoose/issues).
+[https://github.com/uperl/moosex-nonmoose/issues](https://github.com/uperl/moosex-nonmoose/issues).
 
 # SEE ALSO
 
@@ -120,7 +120,7 @@ You can also look for information at:
 
 - Github
 
-    [https://github.com/doy/moosex-nonmoose](https://github.com/doy/moosex-nonmoose)
+    [https://github.com/uperl/moosex-nonmoose](https://github.com/uperl/moosex-nonmoose)
 
 - RT: CPAN's request tracker
 
@@ -132,7 +132,7 @@ Jesse Luehrs <doy@tozt.net>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2024 by Jesse Luehrs.
+This software is copyright (c) 2025 by Jesse Luehrs.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
