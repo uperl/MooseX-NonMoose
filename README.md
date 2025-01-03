@@ -132,7 +132,7 @@ Jesse Luehrs <doy@tozt.net>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2025 by Jesse Luehrs.
+This software is copyright (c) 2009-2025 by Jesse Luehrs.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
