@@ -4,6 +4,7 @@ use Moose::Role;
 use List::Util 1.33 qw(any);
 use Module::Runtime qw(use_package_optimistically);
 use Try::Tiny;
+use List::Util qw( any );
 use Scalar::Util 'blessed';
 
 # ABSTRACT: metaclass trait for L<MooseX::NonMoose>
@@ -308,7 +309,7 @@ around superclasses => sub {
 
     my @superclasses = @_;
     push @superclasses, 'Moose::Object'
-        unless grep { !ref($_) && $_->isa('Moose::Object') } @superclasses;
+        unless any { !ref($_) && $_->isa('Moose::Object') } @superclasses;
 
     my @ret = $self->$orig(@superclasses);
 
