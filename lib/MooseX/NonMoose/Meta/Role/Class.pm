@@ -7,6 +7,7 @@ use Try::Tiny;
 use Scalar::Util 'blessed';
 
 # ABSTRACT: metaclass trait for L<MooseX::NonMoose>
+# VERSION
 
 =head1 SYNOPSIS
 
