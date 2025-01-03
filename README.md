@@ -1,4 +1,4 @@
-# MooseX::NonMoose
+# MooseX::NonMoose ![static](https://github.com/uperl/MooseX-NonMoose/workflows/static/badge.svg) ![linux](https://github.com/uperl/MooseX-NonMoose/workflows/linux/badge.svg)
 
 easy subclassing of non-Moose classes
 

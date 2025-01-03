@@ -19,7 +19,10 @@ $modules{$_} = $_ for qw(
   Moose::Exporter
   Moose::Role
   Moose::Util
+  MooseX::GlobRef
+  MooseX::InsideOut
   Scalar::Util
+  Test2::Require::Module
   Test::Fatal
   Test::Moose
   Test::More
