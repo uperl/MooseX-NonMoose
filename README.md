@@ -128,7 +128,9 @@ You can also look for information at:
 
 # AUTHOR
 
-Jesse Luehrs <doy@tozt.net>
+Original author: Jesse Luehrs <doy@tozt.net>
+
+Current maintainer: Graham Ollis <plicease@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
